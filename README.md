@@ -12,7 +12,7 @@ Sou de São Paulo, Brasil. Me formei na [Trybe](https://www.betrybe.com) em Nove
 <div align="center">
   <a href="https://github.com/cleber-teixeira">
   <img width="400vw" src="https://github-readme-stats.vercel.app/api?username=cleber-teixeira&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img width="336vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleber-teixeira&layout=compact&langs_count=7&theme=dark"/>
+  <img width="392vw" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cleber-teixeira&layout=compact&langs_count=7&theme=dark"/>
 </div>
 
   ##
